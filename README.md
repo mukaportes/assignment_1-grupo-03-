@@ -2,7 +2,7 @@
 
 * Para o estilo do layout foi utilizado o framework Bootstrap na versão 3.3.7 e a bilbioteca JS jQuery para manipulaçao da DOM.
 
-** O algoritmo consiste em rankear os 34 alunos selecionados através de suas respectivas pontuações na prova técnica (esta nota multiplicado por 100) somada as pontuações dos quatro tipos de perfil (Respeito, Paixão por Tecnologia, Protagonismo de Carreira e Growth Mindset) traçados por meio das respostas obtidas num questionamento previamente realizado.
+O algoritmo consiste em rankear os 34 alunos selecionados através de suas respectivas pontuações na prova técnica (esta nota multiplicado por 100) somada as pontuações dos quatro tipos de perfil (Respeito, Paixão por Tecnologia, Protagonismo de Carreira e Growth Mindset) traçados por meio das respostas obtidas num questionamento previamente realizado.
 
 A partir destes dados, puxados da planilha em .csv convertida em um JSON, rankeamos os alunos por suas pontuações finais (a soma descrita acima).
 
